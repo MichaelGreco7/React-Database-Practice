@@ -35,7 +35,3 @@ $ npm start
 - [AxiosJS](https://github.com/axios/axios)
 - [NodeJS](https://nodejs.org/en/)
 - [Bulma](https://bulma.io/)
-
-```
-
-```
